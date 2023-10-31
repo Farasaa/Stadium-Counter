@@ -1,0 +1,51 @@
+body {
+    background-image: url("jimmy-conover-SEQ2VI0KI6A-unsplash.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    
+}
+
+.container {
+    margin: 100px auto auto auto;
+    background: #ba2d0b;
+    max-width: 80%; 
+    border: 3px solid #01110a;
+    border-radius: 10px;
+    color: #d5f2e3;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid #01110a;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #d5f2e3;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #003e1f;
+}
+
+#save-btn {
+    background: #73ba9b;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
